@@ -35,7 +35,7 @@ def message_handler(message: types.Message):
     
     # если исключения не возникло - значит был введен корректный JSON
     # форматируем его в красивый текст :) (отступ 2 пробела на уровень, сортировать ключи по алфавиту)
-    text = json.dumps(payload, indent=2, sort_keys=True)
+    text = json.dumps(payload, indent=2, sort_keys=True, ensure_ascii=False)
     # и выводим пользователю
     bot.send_message(
         chat_id=message.chat.id,
