@@ -15,11 +15,15 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)
+![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
+![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
+
+Пример работы бтютифаера:
+
+![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
 
 
 ## 💻 Технологии
