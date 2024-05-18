@@ -52,9 +52,6 @@ source venv/bin/activate
 python3 -m pip install pyTelegramBotAPI
 ```
 
-``` markdown
-python3 -m pip install faker
-```
 
 Запускаем
 ``` markdown
