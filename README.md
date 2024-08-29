@@ -21,7 +21,7 @@
 
 ![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
 
-Пример работы бтютифаера:
+Пример работы бьютифаера:
 
 ![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
 
